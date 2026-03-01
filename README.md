@@ -1,1 +1,1 @@
-# mustard-privacy
+# MyStars-Privacy
